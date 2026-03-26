@@ -20,6 +20,6 @@ I write about what I build / hack at [xappa.dev](https://xappa.dev/).
 | **Data** | DynamoDB · PostgreSQL · Supabase |
 | **CI/CD** | GitHub Actions · Gitlab CI · Jenkins (Groovy shared libraries) · iOS build pipelines |
 | **Enterprise** | Java · Maven · Groovy |
-| **AI tooling** | Claude Code · Junie |
+| **AI tooling** | Claude Code · Junie CLI |
 
 ---
