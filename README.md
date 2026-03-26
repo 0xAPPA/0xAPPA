@@ -18,7 +18,7 @@ I write about what I build / hack at [xappa.dev](https://xappa.dev/).
 | **Backend** | TypeScript · Node.js · AWS Lambda · CDK · SST · Amplify · Cognito |
 | **Frontend** | Angular · React · React Native · Next.js · HTML/CSS/SCSS |
 | **Data** | DynamoDB · PostgreSQL · Supabase |
-| **CI/CD** | GitHub Actions · Jenkins (Groovy shared libraries) · iOS build pipelines |
+| **CI/CD** | GitHub Actions · Gitlab CI · Jenkins (Groovy shared libraries) · iOS build pipelines |
 | **Enterprise** | Java · Maven · Groovy |
 | **AI tooling** | Claude Code · Junie |
 
